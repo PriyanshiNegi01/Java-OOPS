@@ -1,0 +1,7 @@
+# Inheritance
+
+Box
+|
+BoxWeight
+|
+BoxPrice
