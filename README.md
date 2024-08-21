@@ -3,3 +3,4 @@
 1. intro
 2. static
 3. singleton
+4. inheritance
